@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # YelpCamp
 
 YelpCamp is a Node.js web application project from the Udemy course - The Web Developer Bootcamp by Colt Steele. It is designed to allow users to add, rate, and review different campgrounds, enabling campers to share comments and concerns to help others plan their camping trips effectively.
